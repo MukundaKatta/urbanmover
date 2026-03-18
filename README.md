@@ -79,6 +79,3 @@ urbanmover/
 └── package.json
 ```
 
-## License
-
-MIT
